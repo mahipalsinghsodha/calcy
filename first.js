@@ -29,7 +29,7 @@ const calcy =()=>{
     }
     else
     {
-        document.getElementsByClassName('showData')[0].innerHTML=`Out of 400 your total is ${total} ans percentage is ${perc}%. <br> Your grade is ${grades}. You are Pass`;
+        document.getElementsByClassName('showData')[0].innerHTML=`Out of 400 your total is ${total} ans percentage is ${perc}%. <br> Your grade is ${grades}. You are Fail`;
 
     }
     
